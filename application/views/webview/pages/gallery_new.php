@@ -96,7 +96,7 @@
 								<div class="gallery__hover__action">
 									<ul class="gallery__zoom">
 										<li><a href="<?php echo base_url().$imagerow->img_loc.$imagerow->directory;?>/big/<?php echo  $imagerow->random_file_name_big;?>" data-lightbox="grportimg" data-title="My caption"><i class="fa fa-search"></i></a></li>
-										<li><a href="gallery-details.html"><i class="fa fa-link"></i></a></li>
+										
 									</ul>
 								</div>
 							</div>
